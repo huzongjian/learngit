@@ -1,2 +1,2 @@
-checkout dev!
+checkout dev
 devx
