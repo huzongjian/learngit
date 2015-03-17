@@ -1,5 +1,5 @@
 checkout dev
-devx
+dev
 dev2
 dev1
 dev3
